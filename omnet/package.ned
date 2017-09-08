@@ -1,0 +1,3 @@
+package dogus;
+
+@license(LGPL);
